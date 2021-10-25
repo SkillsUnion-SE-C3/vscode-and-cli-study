@@ -7,16 +7,17 @@ In case you are wondering “what is a command-line interface?”, I would say, 
 
 We’re all used to interacting with a computer using a graphical user interface by pointing and clicking or touching stuff on a screen. The command-line interface (or CLI for short) is pretty much the same thing except, in place of a graphical interface, we type out what we want the computer to do.
 
-**If you are using a Mac or Linux operating system,** then you already have a working command-line environment you can use.
-
-**If you're using Windows 10,** then you're going to need to do a few things before you can get started. Follow the instructions in [this video](https://www.youtube.com/watch?v=-atblwgc63E) till the 3:25 marker or read the instructions in [this article](https://docs.microsoft.com/en-us/windows/wsl/install-win10#manual-installation-steps) to set up a Linux subsystem on Windows 10 for you. So you can also use the command-line interface.
-
 ## Required Watching
-
+- [Code editing with VSCode](https://code.visualstudio.com/docs/introvideos/codeediting)
+- [VSCode productivity tips](https://code.visualstudio.com/docs/introvideos/productivity)
 - [Keyboards & Command Line Interfaces](https://www.youtube.com/watch?v=4RPtJ9UyHS0)
 - [Absolute BEGINNER Guide to the Mac OS Terminal](https://www.youtube.com/watch?v=aKRYQsKR46I)
 - [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
 
+Note: VSCode videos recommend turning on Auto Save and setting format on type and format on paste
+Try starting out without auto save and use format on save instead. 
+
+Later you can try auto save with format on type and see how you like it.
 ## Optional Reading
 
 - [MDN: Command line crash course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
